@@ -1,2 +1,2 @@
-# discover
-Discover is a full text search engine.
+# Quara
+Quara is a full text search engine.
